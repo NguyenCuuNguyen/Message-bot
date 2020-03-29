@@ -7,7 +7,10 @@ Text /bop to see cute puppies!
 
 Steps:
 Download the latest python3 and pip3
+
+
 Install the library:
+  
   pip3 install python-telegram-bot
   
 Run the program 
