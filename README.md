@@ -11,9 +11,9 @@ Download the latest python3 and pip3
 
 Install the library:
   
-  pip3 install python-telegram-bot
+    pip3 install python-telegram-bot
   
 Run the program 
-  python3 main.py
+    python3 main.py
 
 Credit goes to: https://www.freecodecamp.org/news/learn-to-build-your-first-bot-in-telegram-with-python-4c99526765e4/
